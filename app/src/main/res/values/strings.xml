@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BSE5A_Lab_FragSimple</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_frag_left">Hello Left Fragment</string>
+    <string name="text_frag_right">Hello Right Fragment</string>
+    <string name="button_text">Send</string>
+</resources>
